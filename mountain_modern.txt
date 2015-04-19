@@ -1,0 +1,26 @@
+place;country;ft;m
+Hillsdale, New York;USA;961;293
+Bregenz;Austria;1401;427
+Lumbrein;Switzerland;4610;1405
+Clear Lake, California;USA;1417;432
+Sullivan, New York;USA;410;120
+Waternish;UK;932;284
+Tucson, Arizona;USA;2389;728
+Mount Wilson, New South Wales;Australia;3307;1008
+Blue Mountains, Ontario;Canada;1312;400
+Lech;Austria;4738;1444
+Sils Engadina;Switzerland;5915;1803
+Lauenen;Switzerland;4108;1252
+Saint-Martin-de-Belleville;France;4600;1400
+Chamonix;France;3396;1035
+Gstaad;Switzerland;3445;1050
+Norden, California;USA;7000;2133
+Ancram, New York;USA;505;154
+Vals;Switzerland;4108;1252
+Bregenz;Austria;1401;427
+Hudson Valley, New York;USA;800;244
+Garrison, New York;USA;200;60
+Lake Tahoe, California;USA;6225;1897
+Lyon;France;1145;531;
+Bellevue, Idaho;USA;5167;1575
+Stuttgart;Germany;810;247
